@@ -1,0 +1,122 @@
+[
+    {
+        "tmdbId": "425909",
+        "originalTitle": "Ghostbusters: Afterlife",
+        "suggestionScore": 98.19711410929459,
+        "_id": "61eb08914a534c54c547945f"
+    },
+    {
+        "tmdbId": "524434",
+        "originalTitle": "Eternals",
+        "suggestionScore": 87.63228341328792,
+        "_id": "61eb08914a534c54c547945a"
+    },
+    {
+        "tmdbId": "624860",
+        "originalTitle": "The Matrix Resurrections",
+        "suggestionScore": 87.52667565628347,
+        "_id": "61eb08914a534c54c5479462"
+    },
+    {
+        "tmdbId": "860623",
+        "originalTitle": "Last Man Down",
+        "suggestionScore": 83.43107757508248,
+        "_id": "61eb08914a534c54c5479460"
+    },
+    {
+        "tmdbId": "516329",
+        "originalTitle": "Antlers",
+        "suggestionScore": 80.4338115796487,
+        "_id": "61eb08914a534c54c547946a"
+    },
+    {
+        "tmdbId": "634649",
+        "originalTitle": "Spider-Man: No Way Home",
+        "suggestionScore": 67.79221340133061,
+        "_id": "61eb08914a534c54c547945c"
+    },
+    {
+        "tmdbId": "635302",
+        "originalTitle": "劇場版「鬼滅の刃」無限列車編",
+        "suggestionScore": 63.40981312281691,
+        "_id": "61eb08914a534c54c5479468"
+    },
+    {
+        "tmdbId": "763788",
+        "originalTitle": "Dangerous",
+        "suggestionScore": 62.32486921505431,
+        "_id": "61eb08914a534c54c5479466"
+    },
+    {
+        "tmdbId": "512195",
+        "originalTitle": "Red Notice",
+        "suggestionScore": 58.52555042442427,
+        "_id": "61eb08914a534c54c5479467"
+    },
+    {
+        "tmdbId": "843241",
+        "originalTitle": "劇場版 七つの大罪 光に呪われし者たち",
+        "suggestionScore": 57.94577353136996,
+        "_id": "61eb08914a534c54c547946d"
+    },
+    {
+        "tmdbId": "460458",
+        "originalTitle": "Resident Evil: Welcome to Raccoon City",
+        "suggestionScore": 51.122256189499616,
+        "_id": "61eb08914a534c54c5479461"
+    },
+    {
+        "tmdbId": "580489",
+        "originalTitle": "Venom: Let There Be Carnage",
+        "suggestionScore": 45.790804548465225,
+        "_id": "61eb08914a534c54c5479463"
+    },
+    {
+        "tmdbId": "739413",
+        "originalTitle": "Mother/Android",
+        "suggestionScore": 38.8928647488826,
+        "_id": "61eb08914a534c54c5479464"
+    },
+    {
+        "tmdbId": "585245",
+        "originalTitle": "Clifford the Big Red Dog",
+        "suggestionScore": 36.892269320213366,
+        "_id": "61eb08914a534c54c547946b"
+    },
+    {
+        "tmdbId": "787310",
+        "originalTitle": "Survive the Game",
+        "suggestionScore": 28.36909885971597,
+        "_id": "61eb08914a534c54c5479469"
+    },
+    {
+        "tmdbId": "585083",
+        "originalTitle": "Hotel Transylvania: Transformania",
+        "suggestionScore": 26.836405854777357,
+        "_id": "61eb08914a534c54c547945b"
+    },
+    {
+        "tmdbId": "568124",
+        "originalTitle": "Encanto",
+        "suggestionScore": 13.551434065522617,
+        "_id": "61eb08914a534c54c547945e"
+    },
+    {
+        "tmdbId": "438695",
+        "originalTitle": "Sing 2",
+        "suggestionScore": 13.130864903140305,
+        "_id": "61eb08914a534c54c547945d"
+    },
+    {
+        "tmdbId": "566525",
+        "originalTitle": "Shang-Chi and the Legend of the Ten Rings",
+        "suggestionScore": 4.336573076519334,
+        "_id": "61eb08914a534c54c5479465"
+    },
+    {
+        "tmdbId": "826749",
+        "originalTitle": "Fortress",
+        "suggestionScore": 0.5582520253021528,
+        "_id": "61eb08914a534c54c547946c"
+    }
+]
